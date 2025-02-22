@@ -6,7 +6,7 @@ Sebuah API sederhana menggunakan Express.js dan MongoDB untuk mengelola akun, po
 
 1. Clone repository ini:
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/HanBrokenHome/BackEnd-Post.git
    ```
 2. Install dependencies:
    ```sh
